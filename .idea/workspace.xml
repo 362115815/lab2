@@ -81,21 +81,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="info.jsp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="info.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/info.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.7777777" vertical-offset="0" max-vertical-offset="600">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.6363636" vertical-offset="0" max-vertical-offset="660">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3242424" vertical-offset="86" max-vertical-offset="800">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="30" />
+            <state vertical-scroll-proportion="-3.9629629" vertical-offset="86" max-vertical-offset="800">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -162,8 +162,8 @@
         <option value="$PROJECT_DIR$/src/action/AddBook.java" />
         <option value="$PROJECT_DIR$/src/bean/Bookbean.java" />
         <option value="$PROJECT_DIR$/web/result.jsp" />
-        <option value="$PROJECT_DIR$/web/info.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/info.jsp" />
       </list>
     </option>
   </component>
@@ -1023,12 +1023,12 @@
       <workItem from="1412939952060" duration="1493000" />
       <workItem from="1412941564193" duration="2975000" />
       <workItem from="1412949139188" duration="2689000" />
-      <workItem from="1413455712151" duration="771000" />
+      <workItem from="1413455712151" duration="1327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98641000" />
+    <option name="totallyTimeSpent" value="99197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1186" extended-state="1" />
@@ -1447,14 +1447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.574074" vertical-offset="3265" max-vertical-offset="4060">
-          <caret line="159" column="16" selection-start-line="159" selection-start-column="16" selection-end-line="159" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/detail.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.407408" vertical-offset="2346" max-vertical-offset="3060">
@@ -1471,18 +1463,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/info.jsp">
+    <entry file="file://$PROJECT_DIR$/web/edit.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7777777" vertical-offset="0" max-vertical-offset="600">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="25" />
+        <state vertical-scroll-proportion="1.574074" vertical-offset="3265" max-vertical-offset="4060">
+          <caret line="159" column="16" selection-start-line="159" selection-start-column="16" selection-end-line="159" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3242424" vertical-offset="86" max-vertical-offset="800">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="30" />
+        <state vertical-scroll-proportion="-3.9629629" vertical-offset="86" max-vertical-offset="800">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/info.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6363636" vertical-offset="0" max-vertical-offset="660">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="17" />
           <folding />
         </state>
       </provider>

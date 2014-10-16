@@ -13,7 +13,7 @@
 
   </head>
   <body>
-    <%--this is index page--%>
+    this is index page
   <div align="center" style="margin-top: 10%">
       <h1 class="milky">图书管理系统</h1>
   <table>

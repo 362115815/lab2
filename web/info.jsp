@@ -19,6 +19,6 @@
     window.location.href="${requestScope.msg1}";
 </script>
 <%--<jsp:forward page="search.jsp"></jsp:forward>--%>
-<%--this is info page--%>
+this is info page
 </body>
 </html>

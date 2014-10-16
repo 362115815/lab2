@@ -1,0 +1,104 @@
+[1mdiff --git a/.idea/workspace.xml b/.idea/workspace.xml[m
+[1mindex 18378a7..96da8e0 100644[m
+[1m--- a/.idea/workspace.xml[m
+[1m+++ b/.idea/workspace.xml[m
+[36m@@ -81,21 +81,21 @@[m
+           </provider>[m
+         </entry>[m
+       </file>[m
+[31m-      <file leaf-file-name="info.jsp" pinned="false" current="false" current-in-tab="false">[m
+[32m+[m[32m      <file leaf-file-name="info.jsp" pinned="false" current="true" current-in-tab="true">[m
+         <entry file="file://$PROJECT_DIR$/web/info.jsp">[m
+           <provider selected="true" editor-type-id="text-editor">[m
+[31m-            <state vertical-scroll-proportion="-7.7777777" vertical-offset="0" max-vertical-offset="600">[m
+[31m-              <caret line="21" column="4" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="25" />[m
+[32m+[m[32m            <state vertical-scroll-proportion="0.6363636" vertical-offset="0" max-vertical-offset="660">[m
+[32m+[m[32m              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="17" />[m
+               <folding />[m
+             </state>[m
+           </provider>[m
+         </entry>[m
+       </file>[m
+[31m-      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">[m
+[32m+[m[32m      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">[m
+         <entry file="file://$PROJECT_DIR$/web/index.jsp">[m
+           <provider selected="true" editor-type-id="text-editor">[m
+[31m-            <state vertical-scroll-proportion="0.3242424" vertical-offset="86" max-vertical-offset="800">[m
+[31m-              <caret line="15" column="8" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="30" />[m
+[32m+[m[32m            <state vertical-scroll-proportion="-3.9629629" vertical-offset="86" max-vertical-offset="800">[m
+[32m+[m[32m              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="22" />[m
+               <folding />[m
+             </state>[m
+           </provider>[m
+[36m@@ -162,8 +162,8 @@[m
+         <option value="$PROJECT_DIR$/src/action/AddBook.java" />[m
+         <option value="$PROJECT_DIR$/src/bean/Bookbean.java" />[m
+         <option value="$PROJECT_DIR$/web/result.jsp" />[m
+[31m-        <option value="$PROJECT_DIR$/web/info.jsp" />[m
+         <option value="$PROJECT_DIR$/web/index.jsp" />[m
+[32m+[m[32m        <option value="$PROJECT_DIR$/web/info.jsp" />[m
+       </list>[m
+     </option>[m
+   </component>[m
+[36m@@ -1023,12 +1023,12 @@[m
+       <workItem from="1412939952060" duration="1493000" />[m
+       <workItem from="1412941564193" duration="2975000" />[m
+       <workItem from="1412949139188" duration="2689000" />[m
+[31m-      <workItem from="1413455712151" duration="771000" />[m
+[32m+[m[32m      <workItem from="1413455712151" duration="1327000" />[m
+     </task>[m
+     <servers />[m
+   </component>[m
+   <component name="TimeTrackingManager">[m
+[31m-    <option name="totallyTimeSpent" value="98641000" />[m
+[32m+[m[32m    <option name="totallyTimeSpent" value="99197000" />[m
+   </component>[m
+   <component name="ToolWindowManager">[m
+     <frame x="-8" y="-8" width="1932" height="1186" extended-state="1" />[m
+[36m@@ -1447,14 +1447,6 @@[m
+         </state>[m
+       </provider>[m
+     </entry>[m
+[31m-    <entry file="file://$PROJECT_DIR$/web/edit.jsp">[m
+[31m-      <provider selected="true" editor-type-id="text-editor">[m
+[31m-        <state vertical-scroll-proportion="1.574074" vertical-offset="3265" max-vertical-offset="4060">[m
+[31m-          <caret line="159" column="16" selection-start-line="159" selection-start-column="16" selection-end-line="159" selection-end-column="16" />[m
+[31m-          <folding />[m
+[31m-        </state>[m
+[31m-      </provider>[m
+[31m-    </entry>[m
+     <entry file="file://$PROJECT_DIR$/web/detail.jsp">[m
+       <provider selected="true" editor-type-id="text-editor">[m
+         <state vertical-scroll-proportion="-8.407408" vertical-offset="2346" max-vertical-offset="3060">[m
+[36m@@ -1471,18 +1463,26 @@[m
+         </state>[m
+       </provider>[m
+     </entry>[m
+[31m-    <entry file="file://$PROJECT_DIR$/web/info.jsp">[m
+[32m+[m[32m    <entry file="file://$PROJECT_DIR$/web/edit.jsp">[m
+       <provider selected="true" editor-type-id="text-editor">[m
+[31m-        <state vertical-scroll-proportion="-7.7777777" vertical-offset="0" max-vertical-offset="600">[m
+[31m-          <caret line="21" column="4" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="25" />[m
+[32m+[m[32m        <state vertical-scroll-proportion="1.574074" vertical-offset="3265" max-vertical-offset="4060">[m
+[32m+[m[32m          <caret line="159" column="16" selection-start-line="159" selection-start-column="16" selection-end-line="159" selection-end-column="16" />[m
+           <folding />[m
+         </state>[m
+       </provider>[m
+     </entry>[m
+     <entry file="file://$PROJECT_DIR$/web/index.jsp">[m
+       <provider selected="true" editor-type-id="text-editor">[m
+[31m-        <state vertical-scroll-proportion="0.3242424" vertical-offset="86" max-vertical-offset="800">[m
+[31m-          <caret line="15" column="8" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="30" />[m
+[32m+[m[32m        <state vertical-scroll-proportion="-3.9629629" vertical-offset="86" max-vertical-offset="800">[m
+[32m+[m[32m          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="22" />[m
+[32m+[m[32m          <folding />[m
+[32m+[m[32m        </state>[m
+[32m+[m[32m      </provider>[m
+[32m+[m[32m    </entry>[m
+[32m+[m[32m    <entry file="file://$PROJECT_DIR$/web/info.jsp">[m
+[32m+[m[32m      <provider selected="true" editor-type-id="text-editor">[m
+[32m+[m[32m        <state vertical-scroll-proportion="0.6363636" vertical-offset="0" max-vertical-offset="660">[m
+[32m+[m[32m          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="17" />[m
+           <folding />[m
+         </state>[m
+       </provider>[m
